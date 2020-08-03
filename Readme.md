@@ -15,4 +15,5 @@
     TEMPLATE_CODE = '********'  # 模板code
    
     ```
+    然后将users/views.py 里的sms_captcha视图中的`result = aliyunsms.send_sms(telephone, code)`取消注释
  3. python manage.py runserver
