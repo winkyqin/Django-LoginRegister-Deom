@@ -9,7 +9,7 @@ idna==2.10
 jmespath==0.10.0
 Pillow==7.2.0
 pycryptodome==3.9.8
-PyJWT==1.7.1
+PyJWT==2.4.0
 python-memcached==1.59
 pytz==2020.1
 requests==2.24.0
