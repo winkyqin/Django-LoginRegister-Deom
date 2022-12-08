@@ -1,7 +1,7 @@
 aliyun-python-sdk-core==2.13.24
 aliyun-python-sdk-dysmsapi==2.1.1
 asgiref==3.2.10
-certifi==2020.6.20
+certifi==2022.12.7
 chardet==3.0.4
 Django==2.1.7
 django-shortuuidfield==0.1.3
